@@ -44,7 +44,7 @@ Preparação para projetos backend com Node.js
 
 ---
 
-#👩‍💻 Desenvolvedora
+# 👩‍💻 Desenvolvedora
 
 Gabrieli Martins
 
